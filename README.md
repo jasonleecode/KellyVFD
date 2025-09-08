@@ -5,3 +5,5 @@ a desktop clock with VFD display
 
 
 <img width="564" height="266" alt="KellyVFD" src="https://github.com/user-attachments/assets/d56af527-3707-41a5-9e57-d483a8f3d598" />
+
+显示屏资料
